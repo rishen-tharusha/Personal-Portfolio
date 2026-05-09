@@ -677,6 +677,12 @@ h3.my-profession {
     display: block;
 }
 
+.portfolio-subheading {
+    color: var(--skin-color);
+    font-size: 14px;
+    margin-top: 4px;
+}
+
 .portfolio .portfolio-item-inner .portfolio-img img:hover {
     box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
     transform: scale(1.1); /* Adjust the scale factor as needed */
