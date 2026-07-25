@@ -849,5 +849,7 @@ h3.my-profession {
         flex: 0 0 100%;
         max-width: 100%;
     }   
-
+    #certifications .row {
+        margin-top: 60px !important;
+    }
 }
